@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+build
+opencv/build
+mysql_utils
+tokens.txt
